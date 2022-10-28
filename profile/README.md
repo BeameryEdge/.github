@@ -4,6 +4,7 @@ We are the applied data science team making things fly at [Beamery](www.beamery.
 
 ### Team reviews
 ⭐⭐⭐⭐⭐ "Edge is a wonderful team to work with 5/5 would work with them again." - Edge Member
+⭐⭐⭐⭐   "Their search and rec algorithms are so cool!" - Search and Rec Engineer
 
 <!--
 
