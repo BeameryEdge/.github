@@ -1,6 +1,6 @@
 ## Hi there - welcome to Beamery Edge 👋
 
-We are the applied data science team making things fly at [Beamery](www.beamery.com)
+We are the applied data science team making things fly at [Beamery](http://www.beamery.com/)
 
 ## Reviews
 ⭐⭐⭐⭐⭐ "Edge is a wonderful team to work with 5/5 would work with them again." - Edge Member <br />
