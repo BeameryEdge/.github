@@ -12,3 +12,5 @@ Interested in joining us on this mission? [Join our team](http://careers.beamery
 ⭐⭐⭐⭐⭐ "Edge is a wonderful team to work with 5/5 would work with them again." - Edge Member <br />
 ⭐⭐⭐⭐⭐ "Ahmad is the smartest, most caring and overall best manager ever!" - Engineer on payroll <br />
 ⭐⭐⭐⭐   "Their search and rec algorithms are so cool!" - Search and Rec Engineer <br />
+
+Stay tuned for more updates here on our journey to talent AI nirvana. 
