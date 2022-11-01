@@ -8,6 +8,8 @@ We are the applied data science team making things fly at [Beamery](http://www.b
 
 *Beamery Edge will ensure anyone has full visibility of career paths available to them, and that business leaders are equipped with bias free talent insights to enable them to build world class companies.*
 
+-----
+
 Interested in joining us on this mission? [Join our team](http://careers.beamery.com/). We are looking for:
 - Graph Database Engineers
 - Data Scientists specialising in graph learning
