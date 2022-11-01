@@ -6,7 +6,7 @@ We are the applied data science team making things fly at [Beamery](http://www.b
 
 ### **Unbiased, explainable and highly nuanced talent insights on demand**
 
-*Beamery Edge will ensure any person, no matter  has complete visibility of career options available to them, and that business leaders are equipped with bias free talent insights to build world class companies.*
+*Beamery Edge will ensure any person has complete visibility of career options available to them, and that business leaders are equipped with bias free talent insights to build world class companies.*
 
 -----
 
