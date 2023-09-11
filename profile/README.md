@@ -30,3 +30,7 @@ Interested in joining us on this mission? [Join our team](http://careers.beamery
  - [Hustlers, Hackers and the Data Gold Rush](https://medium.com/hacking-talent/hustlers-hackers-and-the-data-gold-rush-ab006e7ae976)
 
 Stay tuned for more updates here on our journey to talent AI nirvana...
+
+### What do we use? 
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+
